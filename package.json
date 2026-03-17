@@ -1,0 +1,19 @@
+{
+  "name": "newndy-board",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI가 기획을 돕고, MCP가 개발자와 보드를 연결하는 차세대 경량 프로젝트 관리 도구",
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "lint": "turbo lint",
+    "type-check": "turbo type-check"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.32.1",
+  "devDependencies": {
+    "turbo": "^2.8.17"
+  }
+}
