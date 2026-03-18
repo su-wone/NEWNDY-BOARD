@@ -24,6 +24,7 @@
   },
   "pnpm": {
     "onlyBuiltDependencies": [
+      "@nestjs/core",
       "sharp",
       "unrs-resolver"
     ]
