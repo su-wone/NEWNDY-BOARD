@@ -4,7 +4,7 @@
 |---|---|
 | 기간 | Sprint 1–2 · 2025.03.17 – 04.13 |
 | 목표 | 전체 개발의 기반이 되는 인프라, 인증, 워크스페이스 구축 |
-| 기술 스택 | Next.js 14 · NestJS · Prisma · PostgreSQL · Google OAuth |
+| 기술 스택 | Next.js 16 · NestJS · Prisma · PostgreSQL · Google OAuth |
 
 ---
 
@@ -25,7 +25,7 @@
 | 티켓 ID | 제목 | Story | 우선순위 | 분야 | Sprint |
 |---|---|---|---|---|---|
 | NB-01 | pnpm workspace + Turborepo 모노레포 초기화 | S1-1 | 최상 | Infra | S1 |
-| NB-02 | Next.js 14 App Router 프로젝트 생성 | S1-1 | 최상 | Frontend | S1 |
+| NB-02 | Next.js 16 App Router 프로젝트 생성 | S1-1 | 최상 | Frontend | S1 |
 | NB-03 | Tailwind CSS + shadcn/ui 초기 설치 및 디자인 토큰 정의 | S1-1 | 높음 | Frontend | S1 |
 | NB-04 | ESLint + Prettier + Husky 코드 품질 도구 설정 | S1-1 | 높음 | Infra | S1 |
 | NB-05 | GitHub Actions CI 파이프라인 구성 | S1-1 | 최상 | Infra | S1 |

@@ -53,7 +53,7 @@ Jira          →  Newndy Board
 
 | 영역 | 기술 |
 |---|---|
-| Frontend | Next.js 14 (App Router) · Tailwind CSS · shadcn/ui · TypeScript |
+| Frontend | Next.js 16 (App Router) · Tailwind CSS · shadcn/ui · TypeScript |
 | Backend | NestJS · Prisma ORM · TypeScript |
 | Database | PostgreSQL |
 | 인증 | Google OAuth 2.0 · JWT (Access + Refresh Token) |
@@ -69,7 +69,7 @@ Jira          →  Newndy Board
 ```
 newndy-board/
 ├── apps/
-│   ├── web/              ← Next.js 14 (App Router) + Tailwind
+│   ├── web/              ← Next.js 16 (App Router) + Tailwind
 │   └── api/              ← NestJS + Prisma
 ├── packages/
 │   └── types/            ← 공유 TypeScript 타입 정의
